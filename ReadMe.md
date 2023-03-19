@@ -1,7 +1,16 @@
 ## Saadi Affan Asim Town:
-The app has three types of users:
+
+Saadi Affan Asim Town is an housing society app created for our database and systems course project.
+
+Frontend: c#(.net)
+Backend: sql
+
+#The app has three types of users:
+
 1-Resident
+
 2-Owner
+
 3-Employee
 
 Resident:
