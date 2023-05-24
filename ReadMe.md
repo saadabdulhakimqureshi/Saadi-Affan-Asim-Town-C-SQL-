@@ -2,8 +2,9 @@
 
 Saadi Affan Asim Town is an housing society app created for our database and systems course project.
 
-Frontend: c#(.net)
-Backend: sql
+Frontend: Console Application(C#)
+
+Backend: SQL Server
 
 ## The app has three types of users:
 
