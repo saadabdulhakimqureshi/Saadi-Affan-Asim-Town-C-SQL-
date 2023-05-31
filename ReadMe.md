@@ -8,7 +8,6 @@ Fronend: Console Application(C#)
 
 Backend: Microsoft SQL Server(SQL)
 
-## Instructions
-Below are the pages for the app:
-
 ## Screens
+![Alt text](/Images/OwnerDashboard.PNG)
+![Alt text](/Images/ResidentYes.PNG)
